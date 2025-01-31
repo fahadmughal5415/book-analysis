@@ -1,4 +1,4 @@
-# book-analysis
+# Book Analysis
 
 ## Project Overview
 This project is designed to analyze various books using Python. It includes functionalities such as text analysis, sentiment analysis, and visualization of the results.
